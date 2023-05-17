@@ -1,37 +1,18 @@
-# Purpose of This Repo
+# Introduction to Data Analysis with Pandas and NumPy
 
-This repo is meant to be used to keep things organized during content development and act as the source of truth for all projects and exercises related to this course.
+This repo contains all lesson exercises and project details using Jupyter Notebooks for the Introduction to Data Analysis with Pandas and NumPy course.
 
 ## Folder Structure
-
-### Lesson Folder
-
 This repo contains a folder for each `lesson` and one `project` folder.
 
-Example
-```
-lesson-1-hello
-lesson-2-world
-lesson-3-foo
-lesson-4-bar
-project
-```
-
-Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
-
-Example
-```
-lesson-1-hello
-```
-
-Four lesson folders have been provided as a template; However, you may need to add more or possibly use less than four depending on what is needed.
-
-If you require an additional lesson folder, you can make a copy of the folder and paste it into the root directory.
-
-### Exercises Folder
-
-Each `lesson` folder contains an `exercises` folder. This `exercises` folder should contain all files and instructions necessary for the exercises along with the solution. The solutions for these exercises will be shared with students. See the `README` in the `exercises` folder for information about folder structure.
+### Lesson Folder
+Each `lesson` folder contains an `exercises` folder. These `exercises` contain all files and instructions necessary for the exercises along with the solution.
+- [lesson-1-The-Data-Analysis-Process ](lesson-1-The-Data-Analysis-Process%20)
+- [lesson-2-Jupyter-Notebooks](lesson-2-Jupyter-Notebooks)
+- [lesson-3-Exploring-and-Inspecting-Data](lesson-3-Exploring-and-Inspecting-Data)
+- [lesson-4-Manipulating-Data-using-Pandas-and-NumPy](lesson-4-Manipulating-Data-using-Pandas-and-NumPy)
+- [lesson-5-Communicating-Results](lesson-5-Communicating-Results)
 
 ### Project Folder
-
-The `project` folder should contain all files and instructions necessary for setup. If possible, a set of instructions should be provided for both Udacity workspaces and a way to work locally (for both MacOS and Windows OS). At a minimum, one set of instructions should be provided. A `README` template has been provided in the project folder. This template layout should be used to write your README.
+The `project` folder contains all files and instructions necessary for setup.
+- [project-Investigate-a-Dataset](project-Investigate-a-Dataset)
