@@ -1,4 +1,4 @@
-# Introduction to Data Analysis with Pandas and NumPy
+# CD12529 Introduction to Data Analysis with Pandas and NumPy
 
 This repo contains all lesson exercises and project details using Jupyter Notebooks for the Introduction to Data Analysis with Pandas and NumPy course.
 
